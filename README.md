@@ -4,7 +4,7 @@
 
 - 🚀 I'm currently working as a trainee in [Platanus](https://platan.us/)
 - 🤓 I'm studying Software Engineering at the Pontific Catholic University of Chile
-- 🔭 I've worked and am currently working on the assistantships of:
+- 🔭 I've worked and I'm currently working on the assistantships of:
     - Introduction to Programming
     - Introduction to Economics
 - 🌱 I’m currently learning about SDK's and Docker
