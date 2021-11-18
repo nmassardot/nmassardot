@@ -1,17 +1,20 @@
-### 𝐇𝐞y 𝐭𝐡𝐞𝐫𝐞, I'm Nicolás Massardo 👋
+# Hey there, I'm Nicolás Massardo 👋
 
-## I'm a Student, Teacher assistant and Developer
+<h4> I'm a Student, Teacher Assistant and Developer </h4>
 
 - 🚀 I'm currently working as a trainee in [Platanus](https://platan.us/)
 - 🤓 I'm studying Software Engineering at the Pontific Catholic University of Chile
 - 🔭 I've worked and I'm currently working on the assistantships of:
+    - [Eligebien2021](https://eligebien.herokuapp.com/)
     - Introduction to Programming
     - Introduction to Economics
-- 🌱 I’m currently learning about SDK's and Docker
+- 🌱 I’m currently learning about SDK's and Docker. I like to write about the things I learn
 - 💻 I have collaborated in:
     - [Plutto’s python SDK](https://github.com/plutto-labs/plutto-python)
     - [Fintoc’s python SDK](https://github.com/fintoc-com/fintoc-python)
-- 😄 I’m looking to collaborate on open source projects
+- 😄 I’m looking to collaborate on projects and Open Source
+
+
 
 <!--
 **nmassardot/nmassardot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
