@@ -1,4 +1,4 @@
-# Hey there, I'm Nicolás Massardo 👋
+# Hey there, I'm Nicolás Massardo <img src="avatar.jpeg" width="66px" align="center" style="margin-bottom: 14px;">
 
 <h4> I'm a Student, Teacher Assistant and Developer </h4>
 
