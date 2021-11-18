@@ -6,6 +6,7 @@
 - 🤓 I'm studying Software Engineering at the Pontific Catholic University of Chile
 - 🔭 I've worked and I'm currently working on the assistantships of:
     - [Eligebien2021](https://eligebien.herokuapp.com/)
+    - A beerpong tournament web app
     - Introduction to Programming
     - Introduction to Economics
 - 🌱 I’m currently learning about SDK's and Docker. I like to write about the things I learn
