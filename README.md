@@ -35,18 +35,22 @@
     <img alt="Heroku" width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/icons/heroku.svg" />
     <img alt="Visual Studio Code" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 </div>
+<br />
 
-<!--
-**nmassardot/nmassardot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+![Nicolás Massardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=nmassardot&count_private=true&show_icons=true&theme=tokyonight)
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better or you want to collaborate with me. <br>
+Ask me anything <a href="https://github.com/nmassardot/nmassardot/issues/new"><b>here</b></a>
+<br />
+</div>
+<h2> Connect with me</h2>
+<a href="https://www.linkedin.com/in/nicolas-massardo-tapia"> <img width="32px" style="margin-right: 10px;" align="center" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a>
+<a href="https://www.instagram.com/nico.massardo/"> <img width="32px" align="center" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/icons/instagram.svg"></a>
+
+
+<br />
+
+Last Edited on: 09/11/2021
