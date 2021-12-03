@@ -2,7 +2,7 @@
 
 <h4> I'm a Student, Teacher Assistant and Developer </h4>
 
-- 🚀 I'm currently working as a trainee in [Platanus](https://platan.us/)
+- 🚀 I'm currently working as a trainee at [Platanus](https://platan.us/)
 - 🤓 I'm studying Software Engineering at the Pontific Catholic University of Chile
 - 🔭 I've worked and I'm currently working on the assistantships of:
     - [Eligebien2021](https://eligebien.herokuapp.com/)
