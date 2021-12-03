@@ -10,6 +10,9 @@
     - Introduction to Programming
     - Introduction to Economics
 - 🌱 I’m currently learning about SDK's and Docker. I like to write about the things I learn
+- I have wrote _Explained_ kind of posts about:
+    - [Open Source](https://plata.news/blog/que-es-open-source/)](https://plata.news/)
+    - [Github Copilot](https://plata.news/blog/github-copilot-explained/)
 - 💻 I have collaborated in:
     - [Plutto’s python SDK](https://github.com/plutto-labs/plutto-python)
     - [Fintoc’s python SDK](https://github.com/fintoc-com/fintoc-python)
