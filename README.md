@@ -45,6 +45,7 @@
 <div align="center">
 
 ![Nicolás Massardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=nmassardot&count_private=true&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nmassardot&count_private=true&show_icons=true&langs_count=8&layout=compact&custom_title=Top%20Langs&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 
 Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better or you want to collaborate with me. <br>
