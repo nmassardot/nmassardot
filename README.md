@@ -1,12 +1,13 @@
 # Hey there, I'm Nicolás Massardo <img src="avatar.png" width="66px" align="center" style="margin-bottom: 14px;">
 
-<h4> I'm a Student, Teacher Assistant and Developer </h4>
+<h4> I'm a developer and student </h4>
 
-- 🚀 I'm currently working as a trainee at [Platanus](https://platan.us/)
+- 🚀 I'm currently working as a dev at [Examedi](https://examedi.com/)
 - 🤓 I'm studying Software Engineering at the Pontific Catholic University of Chile
-- 🔭 I've worked and I'm currently working on the assistantships of:
+- 👨🏻‍💻 Personal projects:
     - [Eligebien2021](https://eligebien.herokuapp.com/)
     - A beerpong tournament web app
+- 🔭 I've worked on the assistantships of:
     - Introduction to Programming
     - Introduction to Economics
 - 🌱 I’m currently learning about SDK's and Docker. I like to write about the things I learn
