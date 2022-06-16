@@ -15,9 +15,10 @@
     - [Open Source](https://plata.news/blog/que-es-open-source/)
     - [Github Copilot](https://plata.news/blog/github-copilot-explained/)
 - 🔭 I've worked on the assistantships of:
+    - Detailed Software Design
     - Introduction to Programming
     - Introduction to Economics
-- 🌱 I’m currently learning about SDK's and Docker. I like to write about the things I learn
+- 🌱 I’m currently learning about NeoVim and SDK's. I like to write about the things I learn
 - 😄 I’m looking to collaborate on projects and Open Source
 - ⚡ A useful shortcut cheatsheet: https://usethekeyboard.com/
 
@@ -93,4 +94,4 @@ Ask me anything <a href="https://github.com/nmassardot/nmassardot/issues/new"><b
 
 <br />
 
-Last Edited on: 09/11/2021
+Last Edited on: 15/06/2022
