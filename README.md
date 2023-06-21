@@ -2,27 +2,25 @@
 
 <h4> I'm a developer and student </h4>
 
-- 🚀 I'm currently working as a dev at [Examedi](https://examedi.com/)
+- 🚀 I'm currently working as a dev at [Toku](https://trytoku.com/)
 - 🤓 I'm studying Software Engineering at the Pontific Catholic University of Chile
 - 👨🏻‍💻 Personal projects:
-    - [Eligebien2021](https://eligebien.herokuapp.com/)
-    - A beerpong tournament web app
+  - [Eligebien2021](https://eligebien.herokuapp.com/)
+  - A beerpong tournament web app
 - 💻 I have collaborated in:
-    - [Fig (YC S20)](https://github.com/withfig/autocomplete)
-    - [Plutto’s python SDK](https://github.com/plutto-labs/plutto-python)
-    - [Fintoc’s python SDK](https://github.com/fintoc-com/fintoc-python)
+  - [Fig (YC S20)](https://github.com/withfig/autocomplete)
+  - [Plutto’s python SDK](https://github.com/plutto-labs/plutto-python)
+  - [Fintoc’s python SDK](https://github.com/fintoc-com/fintoc-python)
 - I have wrote _Explained_ kind of posts about:
-    - [Open Source](https://plata.news/blog/que-es-open-source/)
-    - [Github Copilot](https://plata.news/blog/github-copilot-explained/)
-- 🔭 I've worked on the assistantships of:
-    - Detailed Software Design
-    - Introduction to Programming
-    - Introduction to Economics
-- 🌱 I’m currently learning about NeoVim and SDK's. I like to write about the things I learn
+  - [Open Source](https://plata.news/blog/que-es-open-source/)
+  - [Github Copilot](https://plata.news/blog/github-copilot-explained/)
+- 🔭 I've worked on the teaching assistantships of:
+  - Detailed Software Design
+  - Introduction to Programming
+  - Introduction to Economics
+- 🌱 I’m currently learning about NeoVim. I like to write about the things I learn
 - 😄 I’m looking to collaborate on projects and Open Source
 - ⚡ A useful shortcut cheatsheet: https://usethekeyboard.com/
-
-
 
 ## Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>
 
@@ -49,6 +47,7 @@
 ![LaTeX](https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-white?style=for-the-badge&logo=markdown&logoColor=black)
 ![Tailwind](https://img.shields.io/badge/tailwindcss-white?style=for-the-badge&logo=tailwindcss)
+
 </div>
 
 <div align="center">
@@ -63,6 +62,7 @@
 Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better or you want to collaborate with me. <br>
 Ask me anything <a href="https://github.com/nmassardot/nmassardot/issues/new"><b>here</b></a>
 <br />
+
 </div>
 <h2> Connect with me</h2>
 <a
@@ -90,7 +90,6 @@ Ask me anything <a href="https://github.com/nmassardot/nmassardot/issues/new"><b
         src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white"
     >
 </a>
-
 
 <br />
 
