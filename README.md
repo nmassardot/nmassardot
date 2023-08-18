@@ -6,6 +6,7 @@
 - 🤓 I'm studying Software Engineering at the Pontific Catholic University of Chile
 - 👨🏻‍💻 Personal projects:
   - [Eligebien2021](https://eligebien.herokuapp.com/)
+  - Personal finances web app
   - A beerpong tournament web app
 - 💻 I have collaborated in:
   - [Fig (YC S20)](https://github.com/withfig/autocomplete)
