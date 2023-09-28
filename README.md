@@ -5,6 +5,7 @@
 - 🚀 I'm currently working as a dev at [Toku](https://trytoku.com/)
 - 🤓 I'm studying Software Engineering at the Pontific Catholic University of Chile
 - 👨🏻‍💻 Personal projects:
+  - [Money wasted](https://money-wasted.online/)
   - [Eligebien2021](https://eligebien.herokuapp.com/)
   - Personal finances web app
   - A beerpong tournament web app
