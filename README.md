@@ -2,8 +2,8 @@
 
 <h4> I'm a developer and student </h4>
 
-- 🚀 I'm currently working as a dev at [Toku](https://trytoku.com/)
-- 🤓 I'm studying Software Engineering at the Pontific Catholic University of Chile
+- 🚀 I'm currently working as a Software Engineering at [Toku](https://trytoku.com/)
+- 🤓 I studied engineering at Pontificia Universidad Católica de Chile
 - 👨🏻‍💻 Personal projects:
   - [Money wasted](https://money-wasted.online/)
   - [Eligebien2021](https://eligebien.herokuapp.com/)
