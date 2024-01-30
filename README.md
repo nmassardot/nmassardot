@@ -5,9 +5,7 @@
 - 🚀 I'm currently working as a Software Engineering at [Toku](https://trytoku.com/)
 - 🤓 I studied engineering at Pontificia Universidad Católica de Chile
 - 👨🏻‍💻 Personal projects:
-  - [Money wasted](https://money-wasted.online/)
   - [Eligebien2021](https://eligebien.herokuapp.com/)
-  - Personal finances web app
   - A beerpong tournament web app
 - 💻 I have collaborated in:
   - [Fig (YC S20)](https://github.com/withfig/autocomplete)
