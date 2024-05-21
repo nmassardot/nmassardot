@@ -8,6 +8,7 @@
 - 👨🏻‍💻 Personal projects:
   - [Eligebien2021](https://eligebien.herokuapp.com/)
   - [Doesn't follow back](https://doesnt-follow-back.vercel.app/)
+  - [Neovim preview SVG plugin](https://github.com/nmassardot/nvim-preview-svg)
 - 💻 I have collaborated in:
   - [Fig (YC S20)](https://github.com/withfig/autocomplete)
   - [Plutto’s python SDK](https://github.com/plutto-labs/plutto-python)
