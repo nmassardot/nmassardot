@@ -7,7 +7,7 @@
 - 🤓 I studied engineering at Pontificia Universidad Católica de Chile
 - 👨🏻‍💻 Personal projects:
   - [Eligebien2021](https://eligebien.herokuapp.com/)
-  - A beerpong tournament web app
+  - [Doesn't follow back](https://doesnt-follow-back.vercel.app/)
 - 💻 I have collaborated in:
   - [Fig (YC S20)](https://github.com/withfig/autocomplete)
   - [Plutto’s python SDK](https://github.com/plutto-labs/plutto-python)
@@ -93,4 +93,4 @@ Ask me anything <a href="https://github.com/nmassardot/nmassardot/issues/new"><b
 
 <br />
 
-Last Edited on: 15/06/2022
+Last Edited on: 21/05/2024
