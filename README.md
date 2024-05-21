@@ -2,7 +2,8 @@
 
 <h4> I'm a developer and student </h4>
 
-- 🚀 I'm currently working as a Software Engineering at [Toku](https://trytoku.com/)
+- 🚀 I'm currently working as a Software Engineering II @ [Toku](https://trytoku.com/)
+- ✏️ I write a [newsletter](https://nicomassardo.substack.com/)
 - 🤓 I studied engineering at Pontificia Universidad Católica de Chile
 - 👨🏻‍💻 Personal projects:
   - [Eligebien2021](https://eligebien.herokuapp.com/)
@@ -18,7 +19,6 @@
   - Detailed Software Design
   - Introduction to Programming
   - Introduction to Economics
-- 🌱 I’m currently learning about NeoVim. I like to write about the things I learn
 - 😄 I’m looking to collaborate on projects and Open Source
 - ⚡ A useful shortcut cheatsheet: https://usethekeyboard.com/
 
